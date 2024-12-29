@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5411</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73c51d35-9e1c-40d8-bc61-cbc64402298f</dc:identifier>
+        <dc:title>猫鱼</dc:title>
+        <dc:creator opf:file-as="陈冲" opf:role="aut">陈冲</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.31.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;陈冲&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2024-12-20T03:03:48.261000+00:00" name="calibre:timestamp"/>
+        <meta content="猫鱼" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="猫鱼.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

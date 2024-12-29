@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5413</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef3fca00-6cae-472a-aaab-0b8987487229</dc:identifier>
+        <dc:title>乔瓦尼的房间_【美】詹姆斯·鲍德温</dc:title>
+        <dc:creator opf:file-as="【美】詹姆斯·鲍德温" opf:role="aut">【美】詹姆斯·鲍德温</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.31.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>年轻的美国人大卫在巴黎寻找自我，他的未婚妻赫拉独自在西班牙漫游。大卫在纪尧姆开的酒吧里遇到一个名叫乔瓦尼的意大利酒保。乔瓦尼唤醒了大卫心底的欲望，大卫进入乔瓦尼的房间，房间狭窄、失序，远离市区。
+
+从小说的开头我们就知道大卫抛弃了乔瓦尼，知道赫拉回到了美国，还知道乔瓦尼因杀害酒吧老板被判了死刑。鲍德温在时间轴上自由移动，大卫在男人和女人中间来回摇摆。
+
+詹姆斯·鲍德温以敏锐而深刻的想象力，探索了爱的深渊，创造了一个关于死亡和激情的动人故事，揭示了人类内心无从言说的复杂性。</dc:description>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;【美】詹姆斯·鲍德温&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2024-12-20T03:31:43+00:00" name="calibre:timestamp"/>
+        <meta content="乔瓦尼的房间_【美】詹姆斯·鲍德温" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="乔瓦尼的房间_【美】詹姆斯·鲍德温.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
