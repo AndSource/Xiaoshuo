@@ -1,0 +1,5 @@
+claude --dangerously-skip-permissions
+curl -fsSL https://raw.githubusercontent.com/leeguooooo/claude-code-usage-bar/main/web-install.sh | bash
+
+
+curl -X POST http://localhost:7860/v1/messages/count_tokens
